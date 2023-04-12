@@ -9,3 +9,5 @@ This coding quiz copy allowed me to improve upon my understanding of java script
 
 
 ## Credits
+
+https://www.w3schools.com/ for syntax and method use of certain java script code
