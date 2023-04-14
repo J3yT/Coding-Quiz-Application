@@ -11,3 +11,5 @@ https://j3yt.github.io/Coding-Quiz-Application/ link to deployed webpage
 ## Credits
 
 https://www.w3schools.com/ for syntax and method use of certain java script code
+
+Tutoring session with David Johnson
